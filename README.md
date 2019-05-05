@@ -16,7 +16,7 @@ Codeigniter_mx2 is a free and powerful extention powered for CodeIgniter.
 More information can be found at [byoos.net](http://byoos.net/).
 
 ## Download ##
-You can download it directly as a ZIP file: [GitHub Download](https://github.com/DEV-byoos/archive/master.zip)!
+You can download it directly as a ZIP file: [GitHub Download](https://github.com/DEV-byoos/codeigniter_mx2/archive/master.zip)!
 
 ## Installation ##
 sample copy into web server, apply file access rights  on  app
